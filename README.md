@@ -11,6 +11,7 @@
 
 - 📫 How to reach me **mstseete@gmail.com**
 
+<p>A link to my first project, my live mini-portfolio: https://6371c9dfa5d32758959bd81e--musical-lily-fc1b41.netlify.app/ </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thatego-seete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thatego-seete" height="30" width="40" /></a>
